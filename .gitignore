@@ -1,0 +1,27 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Office temporary files
+~$*
+*.tmp
+*.temp
+
+# CAD temporary/cache files
+*.bak
+*.sv$
+*.dwl
+*.dwl2
+*.ac$
+
+# Archive/extract temporary folders
+__MACOSX/
+
+# Editor/system files
+.DS_Store
+.vscode/
+.idea/
+
+# Local working notes
+local/
+scratch/
